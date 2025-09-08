@@ -484,7 +484,3 @@ If Claude Code PM helps your team ship better software:
 > **[Visit Automaze to book a call with me ›](https://automaze.io)**
 
 ---
-
-## Star History
-
-![Star History Chart](https://api.star-history.com/svg?repos=automazeio/ccpm)
